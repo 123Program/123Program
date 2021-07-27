@@ -1,13 +1,11 @@
-# Hi, I'm 123 Programming#
+# Hi, I'm 123 Programming
 
-#### I like to make programs. ####
-#### I just do it for fun :) ####
+#### I like to make programs. 
+#### I just do it for fun :) 
 
-#### I like to code just for fun. ####
+## You can contact me below: 
 
-## You can contact me below:  ##
-
-##### Email: ##### 123programming123@gmail.com
-##### Website: ##### http://123web.uk/
+Email: 123programming123@gmail.com
+Website: http://123web.uk/
 
 Thanks :)
