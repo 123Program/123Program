@@ -5,9 +5,9 @@
 
 #### I like to code just for fun. ####
 
-### You can contact me below:  ###
+## You can contact me below:  ##
 
-##### Email:  ##### 123programming123@gmail.com
-##### Website:  ##### http://123web.uk/
+##### Email: ##### 123programming123@gmail.com
+##### Website: ##### http://123web.uk/
 
 Thanks :)
